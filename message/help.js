@@ -1,6 +1,7 @@
 exports.menu = (prefix, i) => {
-    return `*Xinz Bot*
-Created by Xinz Team
+    return `*NDOX Bot*
+Created by NDOXSHOP
+
 
 *INFO*
 ${i.free} cekprefix
@@ -51,7 +52,7 @@ ${i.limit} ${prefix}pornhub text1|text2
 *Baileys*
 ${i.free} ${prefix}tagme
 ${i.limit} ${prefix}kontak nomor|nama
-${i.prem} ${prefix}hidetag
+${i.owner} ${prefix}hidetag
 ${i.free} ${prefix}jadian
 ${i.free} ${prefix}ganteng
 ${i.free} ${prefix}cantik
@@ -143,3 +144,16 @@ ${i.limit} : Fitur yang memakai 1 limit harian
 ${i.glimit} : Fitur yang memakai 1 limit game
 ${i.prem} : Fitur khusus premium user`
 }
+
+
+jangan lupa topup di NDOXSHOP
+
+link grup1:https://chat.whatsapp.com/LaqueMSKKsL17KRTj3TeVv
+
+link grup2:https://chat.whatsapp.com/KyVKcGzU5Ym1dXhEBDE9I1
+
+
+
+
+
+
