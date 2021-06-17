@@ -96,7 +96,7 @@ module.exports = async(xinz, msg, blocked, baterai, _afk, welcome, left) => {
 		    var prefix = /^[°•π÷×¶∆£¢€¥®™✓_=|~!?#$%^&.+-,\/\\©^]/.test(command) ? command.match(/^[°•π÷×¶∆£¢€¥®™✓_=|~!?#$%^&.+-,\/\\©^]/gi) : '#'
         } else {
             if (nopref){
-                prefix = ''
+                prefix = 'N'
             } else {
                 prefix = prefa
             }
